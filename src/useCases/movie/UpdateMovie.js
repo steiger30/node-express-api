@@ -1,5 +1,5 @@
 const Movie = require("../../entity/Movie")
-const InMemoryMovie = require("../../repositories/inMemory/InMemoryMovieRespository")
+const InMemoryMovie = require("../../repositories/inMemory/InMemoryMovieRepository")
 class UpdateMovie {
   constructor() { }
 
